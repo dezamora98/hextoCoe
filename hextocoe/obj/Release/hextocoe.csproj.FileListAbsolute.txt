@@ -1,0 +1,6 @@
+D:\Documents\Universidad\Master_SistDig\Sistemas_Embebidos\Tarea2-hextocoe\hextocoe\hextocoe\hextocoe\bin\Release\hextocoe.exe
+D:\Documents\Universidad\Master_SistDig\Sistemas_Embebidos\Tarea2-hextocoe\hextocoe\hextocoe\hextocoe\bin\Release\hextocoe.pdb
+D:\Documents\Universidad\Master_SistDig\Sistemas_Embebidos\Tarea2-hextocoe\hextocoe\hextocoe\hextocoe\obj\Release\hextocoe.csproj.AssemblyReference.cache
+D:\Documents\Universidad\Master_SistDig\Sistemas_Embebidos\Tarea2-hextocoe\hextocoe\hextocoe\hextocoe\obj\Release\hextocoe.csproj.CoreCompileInputs.cache
+D:\Documents\Universidad\Master_SistDig\Sistemas_Embebidos\Tarea2-hextocoe\hextocoe\hextocoe\hextocoe\obj\Release\hextocoe.exe
+D:\Documents\Universidad\Master_SistDig\Sistemas_Embebidos\Tarea2-hextocoe\hextocoe\hextocoe\hextocoe\obj\Release\hextocoe.pdb
